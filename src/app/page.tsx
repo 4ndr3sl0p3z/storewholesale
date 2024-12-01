@@ -78,10 +78,12 @@ export default function Home() {
                   }}
                   className='
                       hover:scale-110
-                      duration-500
-                      transition-transform
+                      duration-2000
+                      transition-all
+                      opacity-0
                     '
                   priority
+                  onLoadingComplete={ (image) => image.classList.remove("opacity-0")}
                 />
               </div>
               <div
@@ -119,6 +121,7 @@ export default function Home() {
                     <span
                       className="
                         text-gray-500
+                        ml-2
                       "
                     >
                       Al detal
@@ -127,6 +130,7 @@ export default function Home() {
                       className="
                         text-gray-600
                         font-semibold
+                        ml-2
                       "
                     >
                       {fCurrency(x.retail)}

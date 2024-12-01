@@ -1,5 +1,341 @@
 [
     {
+        "name": "SET DE TAMBOR DE MARACAS",
+        "purchasedPrice": 12000,
+        "wholesale": 14400,
+        "quantityW": 1,
+        "retail": 20000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844707/frontProducts/IMG_2576_zlwvow.jpg"
+            }
+        ]
+    },
+    {
+        "name": "TOCADOR CASTILLO",
+        "purchasedPrice": 40000,
+        "wholesale": 50000,
+        "quantityW": 1,
+        "retail": 64000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844689/frontProducts/IMG_2606_g7yr3e.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARRO DE BOMBEROS SONIDOS",
+        "purchasedPrice": 35000,
+        "wholesale": 42000,
+        "quantityW": 1,
+        "retail": 56000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844686/frontProducts/IMG_2609_irzaom.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CASA ARMATODO",
+        "purchasedPrice": 39000,
+        "wholesale": 46800,
+        "quantityW": 1,
+        "retail": 54600,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732972802/frontProducts/IMG_2590_n2ovhw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "RETROEXCAVADORA",
+        "purchasedPrice": 27000,
+        "wholesale": 32400,
+        "quantityW": 1,
+        "retail": 43200,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844686/frontProducts/IMG_2613_ys6biw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "ARMATODO HELICOPTERO",
+        "purchasedPrice": 36500,
+        "wholesale": 44000,
+        "quantityW": 1,
+        "retail": 54700,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732972737/frontProducts/IMG_2581_dmheb8.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844705/frontProducts/IMG_2583_mwqb1k.jpg"
+            }
+        ]
+    },
+    {
+        "name": "LANZADOR DE AGUA GIGANTE",
+        "purchasedPrice": 21900,
+        "wholesale": 27000,
+        "quantityW": 1,
+        "retail": 35000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844689/frontProducts/IMG_2602_cqjghw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MALETIN DE NIÑA MED",
+        "purchasedPrice": 26100,
+        "wholesale": 31500,
+        "quantityW": 1,
+        "retail": 41800,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733032432/frontProducts/IMG_2587_qrj6gi.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844705/frontProducts/IMG_2577_e0vwkw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "BOLSO DE PELUCHE Stich pequeño",
+        "purchasedPrice": 18000,
+        "wholesale": 22000,
+        "quantityW": 1,
+        "retail": 29000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844697/frontProducts/IMG_2595_ehzuht.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MUÑECO ENFERMERO",
+        "purchasedPrice": 53000,
+        "wholesale": 64000,
+        "quantityW": 1,
+        "retail": 79500,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844682/frontProducts/IMG_2617_hmwxxv.jpg"
+            }
+        ]
+    },
+    {
+        "name": "BEBE LINDO SONIDOS",
+        "purchasedPrice": 54000,
+        "wholesale": 65000,
+        "quantityW": 1,
+        "retail": 81000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844692/frontProducts/IMG_2601_onilap.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARROS DE CARRERAS CARTONADO",
+        "purchasedPrice": 4000,
+        "wholesale": 5000,
+        "quantityW": 1,
+        "retail": 7000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844685/frontProducts/IMG_2611_wdw8eu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE CARROS",
+        "purchasedPrice": 10400,
+        "wholesale": 12500,
+        "quantityW": 1,
+        "retail": 16800,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732852406/frontProducts/IMG_2643_dzdn02.jpg"
+            }
+        ]
+    },
+    {
+        "name": "TRANSFORMER CARTONADO GRANDE",
+        "purchasedPrice": 37000,
+        "wholesale": 44500,
+        "quantityW": 1,
+        "retail": 59200,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732852340/frontProducts/IMG_2624_ykxosg.jpg"
+            },
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733019563/retailProducts/Captura_de_pantalla_2024-11-30_172321_wxpcx6.png"
+            }
+        ]
+    },
+    {
+        "name": "CARRO NIÑERA",
+        "purchasedPrice": 49300,
+        "wholesale": 60000,
+        "quantityW": 1,
+        "retail": 78900,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844678/frontProducts/IMG_2627_nisbkw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "PISTA 360",
+        "purchasedPrice": 16800,
+        "wholesale": 20160,
+        "quantityW": 1,
+        "retail": 26900,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844692/frontProducts/IMG_2636_xoyskv.jpg"
+            }
+        ]
+    },
+    {
+        "name": "PISTA DE CARROS",
+        "purchasedPrice": 13100,
+        "wholesale": 16000,
+        "quantityW": 1,
+        "retail": 21000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732974132/frontProducts/IMG_2637_o3vbvt.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MAQUINA SHAKIRAS",
+        "purchasedPrice": 17900,
+        "wholesale": 21500,
+        "quantityW": 1,
+        "retail": 28700,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844682/frontProducts/IMG_2639_kgvd4w.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARRO CONTROL LLANTON BATERIA",
+        "purchasedPrice": 76400,
+        "wholesale": 91700,
+        "quantityW": 1,
+        "retail": 118500,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844686/frontProducts/IMG_2621_julh0y.jpg"
+            },
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733019487/retailProducts/Captura_de_pantalla_2024-11-30_170453_gepsgj.png"
+            }
+        ]
+    },
+    {
+        "name": "SET DE BELLEZA NIÑA",
+        "purchasedPrice": 15100,
+        "wholesale": 18200,
+        "quantityW": 1,
+        "retail": 24200,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844678/frontProducts/IMG_2647_vp91uq.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MALETIN  MEDICO VETERINARIO",
+        "purchasedPrice": 20600,
+        "wholesale": 24800,
+        "quantityW": 1,
+        "retail": 35000,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732974267/frontProducts/IMG_3350_zfd2pu.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732974267/frontProducts/IMG_3350_zfd2pu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE COCINA CAJA GRANDE",
+        "purchasedPrice": 22800,
+        "wholesale": 27500,
+        "quantityW": 1,
+        "retail": 36500,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844682/frontProducts/IMG_2632_gmlol6.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE COCINA CAJA",
+        "purchasedPrice": 16800,
+        "wholesale": 20200,
+        "quantityW": 1,
+        "retail": 27000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844683/frontProducts/IMG_2619_vtiv5g.jpg"
+            }
+        ]
+    },
+    {
+        "name": "BOLSO DE PELUCHE",
+        "purchasedPrice": 26000,
+        "wholesale": 31200,
+        "quantityW": 1,
+        "retail": 41600,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844704/frontProducts/IMG_3347_cw1jcs.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844698/frontProducts/IMG_3353_n9se2t.jpg"
+            }
+        ]
+    },
+    {
         "name": "Avion luz-sonidos",
         "purchasedPrice": 16200,
         "wholesale": 19440,
@@ -262,19 +598,6 @@
         ]
     },
     {
-        "name": "Carro construccion colección mini unidad",
-        "purchasedPrice": 2650,
-        "wholesale": 3180,
-        "quantityW": 3,
-        "retail": 4100,
-        "images": [
-            {
-                "key" : "",
-                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733019530/retailProducts/Captura_de_pantalla_2024-11-30_171656_ugicik.png"
-            }
-        ]
-    },
-    {
         "name": "Carro de construccion colores",
         "purchasedPrice": 17600,
         "wholesale": 21120,
@@ -348,19 +671,6 @@
             {
                 "key" : "",
                 "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733019525/retailProducts/Captura_de_pantalla_2024-11-30_171550_xpge6f.png"
-            }
-        ]
-    },
-    {
-        "name": "Carro llanton control bateria",
-        "purchasedPrice": 76400,
-        "wholesale": 91680,
-        "quantityW": 1,
-        "retail": 118420,
-        "images": [
-            {
-                "key" : "",
-                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733019487/retailProducts/Captura_de_pantalla_2024-11-30_170453_gepsgj.png"
             }
         ]
     },
@@ -1272,19 +1582,6 @@
             {
                 "key" : "",
                 "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733020669/retailProducts/Telefono_ncmacy.png"
-            }
-        ]
-    },
-    {
-        "name": "Transformer grande",
-        "purchasedPrice": 37000,
-        "wholesale": 44400,
-        "quantityW": 1,
-        "retail": 59200,
-        "images": [
-            {
-                "key" : "",
-                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1733019563/retailProducts/Captura_de_pantalla_2024-11-30_172321_wxpcx6.png"
             }
         ]
     },
